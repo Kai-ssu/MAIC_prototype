@@ -20,7 +20,7 @@ Requirements: Python ver. 2.7 or newer.
 
 2. Open MSYS2 Min GW 64-bit terminal. Execute command to install gtk and gobject:
 
-	$ pacman -S mingw-w64_x86_64-gcc mingw-w64_x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+	$ pacman -S mingw-w64_x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
 
 3. Execute command to install glade:
 
