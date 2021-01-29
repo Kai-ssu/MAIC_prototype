@@ -18,7 +18,9 @@ Requirements: Python ver. 2.7 or newer.
 	
 	$ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 
-2. Open MSYS2 Min GW 64-bit terminal. Execute command to install gtk and gobject:
+	Exit terminal
+
+2. In the search bar, search for and open new MSYS2 MinGW 64-bit terminal. Execute command to install gtk and gobject:
 
 	$ pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
 
