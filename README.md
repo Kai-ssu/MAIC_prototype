@@ -10,6 +10,10 @@ Requirements: Python ver. 2.7 or newer.
 1. Install MSYS2. Follow the instructions for installation in their website.
    https://www.msys2.org/
 
+	$ pacman -Syu
+	$ pacman -Su
+	$ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+
 2. Download MAIC_prototype folder above. Then copy it to C:/msys64/home/user.
  
 3. Open MSYS2 Min GW 64-bit terminal. Execute command to install gtk and gobject:
