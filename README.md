@@ -18,15 +18,15 @@ Requirements: Python ver. 2.7 or newer.
 	
 	$ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 
-2. Download MAIC_prototype folder above. Then copy it to C:/msys64/home/user.
- 
-3. Open MSYS2 Min GW 64-bit terminal. Execute command to install gtk and gobject:
+2. Open MSYS2 Min GW 64-bit terminal. Execute command to install gtk and gobject:
 
 	$ pacman -S mingw-w64_x86_64-gcc mingw-w64_x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
 
-4. Execute command to install glade:
+3. Execute command to install glade:
 
 	$ pacman -S mingw-w64-x86_64-glade
+
+4. Download MAIC_prototype folder above. Then copy it to C:/msys64/home/user.
 
 5. Change directory to 'MAIC_prototype' folder.
 
