@@ -1,5 +1,7 @@
 # MAIC_prototype
-Immersion Research Project. Python, PyGTK, Glade.
+Immersion Research Project. Python, PyGTK, and Glade.
+
+
 
 # Windows
 
