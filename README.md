@@ -11,13 +11,16 @@ Requirements: Python ver. 2.7 or newer.
 2. Extract/Copy 'MAIC_prototype' folder to C:/msys64/home/user.
 
 3. Open MSYS2 Min GW 64-bit terminal. Execute command to install glade:
-  $ pacman -S mingw-w64-x86_64-glade
+
+	$ pacman -S mingw-w64-x86_64-glade
  
 4. Change directory to 'MAIC_prototype' folder.
-  $ cd MAIC_prototype
+
+	$ cd MAIC_prototype
 
 5. Execute python file.
-  $ python3 MAIC_prototype.py
+
+	$ python3 MAIC_prototype.py
   
 
 
