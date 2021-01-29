@@ -9,6 +9,8 @@ Requirements: Python ver. 2.7 or newer.
 
 1. Install MSYS2. Follow the instructions for installation in their website.
    https://www.msys2.org/
+   
+   A prompt will appear. Execute commands: 
 
 	$ pacman -Syu
 	
